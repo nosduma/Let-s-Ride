@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "806734967835",
+    "project_id": "my-flutter-project-cf7df",
+    "storage_bucket": "my-flutter-project-cf7df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806734967835:android:4999409d7db48291e9f4be",
+        "android_client_info": {
+          "package_name": "za.co.wethinkcode.widgets_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806734967835-jqnau17c3g9qis3i33ien7obd0tstknr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPxR6I2DsaiNVHVjJAsPsrpncxGk1Waq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806734967835-jqnau17c3g9qis3i33ien7obd0tstknr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "806734967835-49atmebl1p9u0bulv613198hn4hk7dne.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "za.co.wethinkcode.widgetsApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
