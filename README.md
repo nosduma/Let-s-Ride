@@ -1,2 +1,1 @@
-# Mobile_Dev_Register-Login-Page
-This is a Mobile Application registration and login page created using Flutter and Dart
+A registration and login page for a lift app. User register and login to see available rides in their area.
